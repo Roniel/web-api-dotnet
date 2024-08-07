@@ -28,7 +28,7 @@ Este projeto é uma aplicação web desenvolvida utilizando .NET 8, seguindo uma
 
 1. **Clone o repositório**:
    ```bash
-   git clone https://github.com/seu-usuario/seu-repositorio.git
+   git clone https://github.com/Roniel/web-api-dotnet.git
    ```
 
 2. **Navegue até o diretório do projeto**:
