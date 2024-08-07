@@ -1,0 +1,15 @@
+D:\Projetos Locais\AppWebApiEstudoSol\AppWebApiEstudo.Application\obj\Debug\net8.0\AppWebApiEstudo.Application.csproj.AssemblyReference.cache
+D:\Projetos Locais\AppWebApiEstudoSol\AppWebApiEstudo.Application\obj\Debug\net8.0\AppWebApiEstudo.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos Locais\AppWebApiEstudoSol\AppWebApiEstudo.Application\obj\Debug\net8.0\AppWebApiEstudo.Application.AssemblyInfoInputs.cache
+D:\Projetos Locais\AppWebApiEstudoSol\AppWebApiEstudo.Application\obj\Debug\net8.0\AppWebApiEstudo.Application.AssemblyInfo.cs
+D:\Projetos Locais\AppWebApiEstudoSol\AppWebApiEstudo.Application\obj\Debug\net8.0\AppWebApiEstudo.Application.csproj.CoreCompileInputs.cache
+D:\Projetos Locais\AppWebApiEstudoSol\AppWebApiEstudo.Application\bin\Debug\net8.0\AppWebApiEstudo.Application.deps.json
+D:\Projetos Locais\AppWebApiEstudoSol\AppWebApiEstudo.Application\bin\Debug\net8.0\AppWebApiEstudo.Application.dll
+D:\Projetos Locais\AppWebApiEstudoSol\AppWebApiEstudo.Application\bin\Debug\net8.0\AppWebApiEstudo.Application.pdb
+D:\Projetos Locais\AppWebApiEstudoSol\AppWebApiEstudo.Application\bin\Debug\net8.0\AppWebApiEstudo.Domain.dll
+D:\Projetos Locais\AppWebApiEstudoSol\AppWebApiEstudo.Application\bin\Debug\net8.0\AppWebApiEstudo.Domain.pdb
+D:\Projetos Locais\AppWebApiEstudoSol\AppWebApiEstudo.Application\obj\Debug\net8.0\AppWebAp.08C26BCB.Up2Date
+D:\Projetos Locais\AppWebApiEstudoSol\AppWebApiEstudo.Application\obj\Debug\net8.0\AppWebApiEstudo.Application.dll
+D:\Projetos Locais\AppWebApiEstudoSol\AppWebApiEstudo.Application\obj\Debug\net8.0\refint\AppWebApiEstudo.Application.dll
+D:\Projetos Locais\AppWebApiEstudoSol\AppWebApiEstudo.Application\obj\Debug\net8.0\AppWebApiEstudo.Application.pdb
+D:\Projetos Locais\AppWebApiEstudoSol\AppWebApiEstudo.Application\obj\Debug\net8.0\ref\AppWebApiEstudo.Application.dll

@@ -1,0 +1,17 @@
+D:\Projetos Locais\AppWebApiEstudoSol\AppWebApiEstudo.Infra.Data\obj\Debug\net8.0\AppWebApiEstudo.Infra.Data.csproj.AssemblyReference.cache
+D:\Projetos Locais\AppWebApiEstudoSol\AppWebApiEstudo.Infra.Data\obj\Debug\net8.0\AppWebApiEstudo.Infra.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos Locais\AppWebApiEstudoSol\AppWebApiEstudo.Infra.Data\obj\Debug\net8.0\AppWebApiEstudo.Infra.Data.AssemblyInfoInputs.cache
+D:\Projetos Locais\AppWebApiEstudoSol\AppWebApiEstudo.Infra.Data\obj\Debug\net8.0\AppWebApiEstudo.Infra.Data.AssemblyInfo.cs
+D:\Projetos Locais\AppWebApiEstudoSol\AppWebApiEstudo.Infra.Data\obj\Debug\net8.0\AppWebApiEstudo.Infra.Data.csproj.CoreCompileInputs.cache
+D:\Projetos Locais\AppWebApiEstudoSol\AppWebApiEstudo.Infra.Data\bin\Debug\net8.0\AppWebApiEstudo.Infra.Data.deps.json
+D:\Projetos Locais\AppWebApiEstudoSol\AppWebApiEstudo.Infra.Data\bin\Debug\net8.0\AppWebApiEstudo.Infra.Data.runtimeconfig.json
+D:\Projetos Locais\AppWebApiEstudoSol\AppWebApiEstudo.Infra.Data\bin\Debug\net8.0\AppWebApiEstudo.Infra.Data.dll
+D:\Projetos Locais\AppWebApiEstudoSol\AppWebApiEstudo.Infra.Data\bin\Debug\net8.0\AppWebApiEstudo.Infra.Data.pdb
+D:\Projetos Locais\AppWebApiEstudoSol\AppWebApiEstudo.Infra.Data\bin\Debug\net8.0\AppWebApiEstudo.Domain.dll
+D:\Projetos Locais\AppWebApiEstudoSol\AppWebApiEstudo.Infra.Data\bin\Debug\net8.0\AppWebApiEstudo.Domain.pdb
+D:\Projetos Locais\AppWebApiEstudoSol\AppWebApiEstudo.Infra.Data\obj\Debug\net8.0\AppWebAp.45AFE7DD.Up2Date
+D:\Projetos Locais\AppWebApiEstudoSol\AppWebApiEstudo.Infra.Data\obj\Debug\net8.0\AppWebApiEstudo.Infra.Data.dll
+D:\Projetos Locais\AppWebApiEstudoSol\AppWebApiEstudo.Infra.Data\obj\Debug\net8.0\refint\AppWebApiEstudo.Infra.Data.dll
+D:\Projetos Locais\AppWebApiEstudoSol\AppWebApiEstudo.Infra.Data\obj\Debug\net8.0\AppWebApiEstudo.Infra.Data.pdb
+D:\Projetos Locais\AppWebApiEstudoSol\AppWebApiEstudo.Infra.Data\obj\Debug\net8.0\AppWebApiEstudo.Infra.Data.genruntimeconfig.cache
+D:\Projetos Locais\AppWebApiEstudoSol\AppWebApiEstudo.Infra.Data\obj\Debug\net8.0\ref\AppWebApiEstudo.Infra.Data.dll

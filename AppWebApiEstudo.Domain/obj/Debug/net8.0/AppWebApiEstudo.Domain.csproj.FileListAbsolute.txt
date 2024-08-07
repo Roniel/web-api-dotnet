@@ -1,0 +1,11 @@
+D:\Projetos Locais\AppWebApiEstudoSol\AppWebApiEstudo.Domain\bin\Debug\net8.0\AppWebApiEstudo.Domain.deps.json
+D:\Projetos Locais\AppWebApiEstudoSol\AppWebApiEstudo.Domain\bin\Debug\net8.0\AppWebApiEstudo.Domain.dll
+D:\Projetos Locais\AppWebApiEstudoSol\AppWebApiEstudo.Domain\bin\Debug\net8.0\AppWebApiEstudo.Domain.pdb
+D:\Projetos Locais\AppWebApiEstudoSol\AppWebApiEstudo.Domain\obj\Debug\net8.0\AppWebApiEstudo.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos Locais\AppWebApiEstudoSol\AppWebApiEstudo.Domain\obj\Debug\net8.0\AppWebApiEstudo.Domain.AssemblyInfoInputs.cache
+D:\Projetos Locais\AppWebApiEstudoSol\AppWebApiEstudo.Domain\obj\Debug\net8.0\AppWebApiEstudo.Domain.AssemblyInfo.cs
+D:\Projetos Locais\AppWebApiEstudoSol\AppWebApiEstudo.Domain\obj\Debug\net8.0\AppWebApiEstudo.Domain.csproj.CoreCompileInputs.cache
+D:\Projetos Locais\AppWebApiEstudoSol\AppWebApiEstudo.Domain\obj\Debug\net8.0\AppWebApiEstudo.Domain.dll
+D:\Projetos Locais\AppWebApiEstudoSol\AppWebApiEstudo.Domain\obj\Debug\net8.0\refint\AppWebApiEstudo.Domain.dll
+D:\Projetos Locais\AppWebApiEstudoSol\AppWebApiEstudo.Domain\obj\Debug\net8.0\AppWebApiEstudo.Domain.pdb
+D:\Projetos Locais\AppWebApiEstudoSol\AppWebApiEstudo.Domain\obj\Debug\net8.0\ref\AppWebApiEstudo.Domain.dll
